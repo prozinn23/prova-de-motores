@@ -1,13 +1,20 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: c2e1537f3f712c443aeec7e3d04b99a9
+=======
+guid: b6e4c33cc26cd70459c09902b1cb2326
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 4723107735738678597
     second: Idle_0
+<<<<<<< HEAD
   - first:
       213: -7385789195546760866
     second: Idle_1
+=======
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,10 +113,17 @@ TextureImporter:
       name: Idle_0
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 0
         y: 0
         width: 8
         height: 8
+=======
+        x: 3
+        y: 1
+        width: 22
+        height: 22
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,6 +138,7 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+<<<<<<< HEAD
     - serializedVersion: 2
       name: Idle_1
       rect:
@@ -146,6 +161,8 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+=======
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
     outline: []
     customData: 
     physicsShape: []

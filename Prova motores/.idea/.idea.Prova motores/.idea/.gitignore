@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Default ignored files
 /shelf/
 /workspace.xml
@@ -11,3 +12,22 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+=======
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Rider ignored files
+/contentModel.xml
+/.idea.Prova motores.iml
+/modules.xml
+/projectSettingsUpdater.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40

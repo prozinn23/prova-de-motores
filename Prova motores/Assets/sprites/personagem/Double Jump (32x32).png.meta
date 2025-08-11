@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 6d0312e4f6e45a541ac390dbc71aec39
+=======
+guid: ae6e68efeaccb3c45bef35508238ebea
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -52,7 +56,11 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
+<<<<<<< HEAD
     filterMode: 1
+=======
+    filterMode: 0
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +74,11 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   spritePixelsToUnits: 100
+=======
+  spritePixelsToUnits: 16
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -259,7 +271,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
     nameFileIdTable: {}
+=======
+    nameFileIdTable:
+      Double Jump (32x32)_0: -9101230857065804138
+      Double Jump (32x32)_1: -6204479477933590408
+      Double Jump (32x32)_2: 7040038629683462113
+      Double Jump (32x32)_3: 781615245368611544
+      Double Jump (32x32)_4: -3939753913355333839
+      Double Jump (32x32)_5: 6301718139250434432
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

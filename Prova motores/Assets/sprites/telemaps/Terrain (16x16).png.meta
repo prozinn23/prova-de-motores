@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: ec8bf12778aa02d41ba5135dcbf8f1a8
+=======
+guid: 33cd73486d7c2d7488690c07c331c690
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -76,7 +80,11 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
+<<<<<<< HEAD
     filterMode: 0
+=======
+    filterMode: 1
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -90,7 +98,11 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   spritePixelsToUnits: 16
+=======
+  spritePixelsToUnits: 100
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -459,6 +471,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
     nameFileIdTable:
       Terrain (16x16)_0: -4874278423985981231
       Terrain (16x16)_1: 2492004042214043949
@@ -474,6 +487,9 @@ TextureImporter:
       Terrain (16x16)_7: 3020870990670601969
       Terrain (16x16)_8: 1685935324672158413
       Terrain (16x16)_9: 8022139226935704013
+=======
+    nameFileIdTable: {}
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

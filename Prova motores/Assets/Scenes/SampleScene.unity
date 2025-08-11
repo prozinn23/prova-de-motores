@@ -340,7 +340,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &976979054
+=======
+--- !u!1 &1015753268
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -348,21 +352,38 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 976979056}
   - component: {fileID: 976979055}
   m_Layer: 0
   m_Name: Grid
+=======
+  - component: {fileID: 1015753273}
+  - component: {fileID: 1015753272}
+  - component: {fileID: 1015753271}
+  - component: {fileID: 1015753270}
+  - component: {fileID: 1015753269}
+  m_Layer: 0
+  m_Name: Fall (32x32)_0
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!156049354 &976979055
 Grid:
+=======
+--- !u!95 &1015753269
+Animator:
+  serializedVersion: 7
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 976979054}
   m_Enabled: 1
   m_CellSize: {x: 1.2, y: 1.2, z: 0}
@@ -371,10 +392,30 @@ Grid:
   m_CellSwizzle: 0
 --- !u!4 &976979056
 Transform:
+=======
+  m_GameObject: {fileID: 1015753268}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5eb9e6f535f8fb84fa325ddd81de8131, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!61 &1015753270
+BoxCollider2D:
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 976979054}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -426,6 +467,9 @@ TilemapCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1355658784}
+=======
+  m_GameObject: {fileID: 1015753268}
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
@@ -454,15 +498,32 @@ TilemapCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
+<<<<<<< HEAD
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0
   m_UseDelaunayMesh: 0
 --- !u!483693784 &1355658787
 TilemapRenderer:
+=======
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.5625, y: 1.625}
+    newSize: {x: 1.625, y: 1.6875}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1.625, y: 1.6875}
+  m_EdgeRadius: 0
+--- !u!114 &1015753271
+MonoBehaviour:
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1355658784}
   m_Enabled: 1
   m_CastShadows: 0
@@ -1301,12 +1362,27 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!212 &1657478071
+=======
+  m_GameObject: {fileID: 1015753268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfe325b3b95e5fb4db97f1f5c8eb732b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade: 40
+  forcaDoPulo: 4
+--- !u!212 &1015753272
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1657478070}
+=======
+  m_GameObject: {fileID: 1015753268}
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -1344,32 +1420,53 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< HEAD
   m_Sprite: {fileID: 2470319409956435798, guid: db63713b4eaff4f4580e3a0a86cb2bf6, type: 3}
+=======
+  m_Sprite: {fileID: -1846781244278701463, guid: 5d85122dff897ed4e9ad1135731980e0, type: 3}
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
+<<<<<<< HEAD
   m_Size: {x: 1.5625, y: 1.8125}
+=======
+  m_Size: {x: 1.625, y: 1.6875}
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 --- !u!4 &1657478072
+=======
+--- !u!4 &1015753273
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1657478070}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 9.91, y: 2.98, z: 3}
   m_LocalScale: {x: 1.0229, y: 1.1762, z: 1}
+=======
+  m_GameObject: {fileID: 1015753268}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -9.2510605, y: -1.3083568, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!95 &1657478073
 Animator:
   serializedVersion: 7
@@ -1479,13 +1576,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   velocidade: 20
   forcaDoPulo: 7
+=======
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 519420032}
   - {fileID: 619394802}
+<<<<<<< HEAD
   - {fileID: 1657478072}
   - {fileID: 1501313145}
   - {fileID: 1599763657}
   - {fileID: 976979056}
+=======
+  - {fileID: 1015753273}
+>>>>>>> f2ad348a82c3cc5cbc0f3ad3bd7f095eb0634c40
